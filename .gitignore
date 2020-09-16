@@ -1,0 +1,10 @@
+Java8Test.iml
+.idea/.gitignore
+out/production/Java8Test/META-INF/Java8Test.kotlin_module
+out/production/Java8Test/it/solving/model/Album.class
+.idea/project-template.xml
+.idea/description.html
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+out/production/Java8Test/it/solving/Main.class
